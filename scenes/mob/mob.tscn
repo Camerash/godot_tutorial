@@ -8,6 +8,8 @@
 [ext_resource path="res://dodge_assets/art/enemySwimming_2.png" type="Texture" id=6]
 [ext_resource path="res://scenes/mob/mob.gd" type="Script" id=7]
 
+
+
 [sub_resource type="SpriteFrames" id=1]
 animations = [ {
 "frames": [ ExtResource( 4 ), ExtResource( 6 ) ],
